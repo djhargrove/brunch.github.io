@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# 6fafba28e51045366ea9fe19ddfe321313e70cdc
+
+NETWORK:
+*
+
+FALLBACK:
+
+
+CACHE:
+./app.css
+./app.js
